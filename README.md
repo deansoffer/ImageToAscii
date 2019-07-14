@@ -1,3 +1,5 @@
+Converts image into ascii chars
+
 <pre>
 ::;;;;*+*+;++;;++;.,%**???*+*?%%%%%%%%%%%####S#S%##SS#S#SSSSS##SSSSS###S#S#####S##S###SS#S
 +++:;;?*:+;::;,+:,+;?*??+*??*???%%%%%%?S%%#####S%S####S*##S#SSSS#S#S#S##S##S###SSSSS#S##SS
