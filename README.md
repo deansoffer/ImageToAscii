@@ -1,6 +1,8 @@
 Converts image into ascii chars
+![alt text](https://i.ibb.co/MBXPZFd/surff.jpg)
 
-<pre>
+To :
+<pre style="font-size:8px;">
 ::;;;;*+*+;++;;++;.,%**???*+*?%%%%%%%%%%%####S#S%##SS#S#SSSSS##SSSSS###S#S#####S##S###SS#S
 +++:;;?*:+;::;,+:,+;?*??+*??*???%%%%%%?S%%#####S%S####S*##S#SSSS#S#S#S##S##S###SSSSS#S##SS
 :+**;:.+**,::**;,:+*++**%?+%*+??%%%??%?%?%%##%S#SS##SS###S#SS#SS#SSSS#SSS##S##SSSS##S#S##S
