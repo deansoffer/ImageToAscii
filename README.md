@@ -1,4 +1,6 @@
-Converts image into ascii chars
+<h1>Converts image into ascii chars</h1>
+<br/>
+
 ![alt text](https://i.ibb.co/MBXPZFd/surff.jpg)
 
 To :
